@@ -1,0 +1,4 @@
+- KimApp bir Android Quiz Uygulamasıdır.
+- Birşeyi kimin yaptığını ve kimin söylediğini cevaplayarak puan toplarsınız.
+- Uygulama içinde Admob entegrasyonu ve ücretli reklam kaldırma özelliği vardır.
+- Deneysel bir projedir eğitim amacı ile yayınlanmıştır.
