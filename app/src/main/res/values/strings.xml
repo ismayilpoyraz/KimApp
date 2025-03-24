@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kim</string>
+    <string name="welcome_message">Kim Söyledi? Kim Yaptı? Oyununa Hoş Geldiniz!</string>
+    <string name="category_who_said">Kim Söyledi?</string>
+    <string name="category_who_did">Kim Yaptı?</string>
+    <string name="choose_category">Kategori Seçin</string>
+    <string name="next_question">Sonraki Soru</string>
+    <string name="finish_game">Oyunu Bitir</string>
+    <string name="your_score">Skorunuz: %1$d</string>
+    <string name="total_score">Toplam Skorunuz: %1$d / %2$d</string>
+    <string name="play_again">Tekrar Oyna</string>
+    <string name="back_to_menu">Ana Menüye Dön</string>
+    <string name="correct_answer">Doğru Cevap!</string>
+    <string name="wrong_answer">Yanlış Cevap!</string>
+    <string name="correct_answer_was">Doğru cevap: %1$s</string>
+</resources>
